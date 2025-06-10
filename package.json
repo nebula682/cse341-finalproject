@@ -1,0 +1,20 @@
+{
+  "name": "cse341-finalproject",
+  "version": "1.0.0",
+  "description": "my finalproject",
+  "homepage": "https://github.com/nebula682/cse341-finalproject#readme",
+  "bugs": {
+    "url": "https://github.com/nebula682/cse341-finalproject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nebula682/cse341-finalproject.git"
+  },
+  "license": "ISC",
+  "author": "Malcolm Nigel Nkomo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
