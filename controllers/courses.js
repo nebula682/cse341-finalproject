@@ -106,4 +106,4 @@ module.exports = {
   createCourse,
   updateCourse,
   deleteCourse
-};n
+};
